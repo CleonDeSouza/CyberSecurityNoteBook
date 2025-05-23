@@ -1,7 +1,6 @@
 **The Fundamentals of Hacking**
 
-Three types of hackers exist:  
-
+# Types of hackers 
 
 |Types|What Do They Do|
 |---------|---------|
